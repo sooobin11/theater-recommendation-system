@@ -28,7 +28,17 @@
 
 👉 공연 줄거리가 텍스트 형태로 제공되지 않아,
 포스터 이미지에서 직접 추출한 점이 주요 특징입니다.
+---
 
+## 📊 리뷰 데이터 분석 (Word Cloud)
+
+### 🎭 연극 리뷰
+![theater_wordcloud](./result/theater_wordcloud.png)
+
+### 🎤 뮤지컬 리뷰
+![musical_wordcloud](./result/musical_wordcloud.png)
+
+👉 리뷰 데이터를 시각화하여 공연에 대한 주요 키워드와 감성 표현을 확인하였습니다.
 ---
 
 ## ⚙️ 기술 스택
