@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ 기술 스택
+## 🛠 기술 스택
 
 * Python, Pandas, NumPy
 * Scikit-learn
